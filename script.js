@@ -22,7 +22,7 @@ $(function()
 	
 	var songs = [{
 		artist: "hoan dz",
-		name: "Mây Lang Thang",
+		name: "Ok - Binz",
 		url: "Ok - Binz.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
