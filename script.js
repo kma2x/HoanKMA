@@ -26,8 +26,8 @@ $(function()
 		url: "Ok - Binz.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-		artist: "hoan dz",
-		name: "Ok - Binz",
+		artist: "HOAN",
+		name: "/Binz/",
 		url: "Ok - Binz.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	} ];
