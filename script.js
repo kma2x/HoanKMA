@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "Tùng Tea & PC",
 		name: "Mây Lang Thang",
-		url: "OK - Binz.mp3",
+		url: "https://soundcloud.com/minh-966246541/may-lang-thang-tung-tea-ft-pc",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
