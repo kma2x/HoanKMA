@@ -21,7 +21,7 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Tùng Tea & PC",
+		artist: "Hoan DZ",
 		name: "Mây Lang Thang",
 		url: "https://soundcloud.com/minh-966246541/may-lang-thang-tung-tea-ft-pc",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
