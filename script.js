@@ -23,7 +23,7 @@ $(function()
 	var songs = [{
 		artist: "Lưu Vũ Quốc Anh",
 		name: "Anh thương em nhất mà",
-		url: "Ok - Binz.mp3",
+		url: "Anh thuong em nhat ma - La Log TiB.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
 		artist: "HOAN",
