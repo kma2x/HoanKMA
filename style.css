@@ -13,7 +13,7 @@ body
 #app-cover
 {
     position: absolute;
-    top: 50%;
+    top: 80%;
     right: 0;
     left: 0;
     width: 430px;
@@ -28,12 +28,12 @@ body
     right: -30px;
     bottom: -30px;
     left: -30px;
-    background-image: url("https://s3-ap-southeast-1.amazonaws.com/img.spiderum.com/sp-images/3ef6be60445f11e8a0c859f3b0a274c2.jpg");
-    background-repeat: no-repeat;
+    background-image: url("https://scontent.fhan5-1.fna.fbcdn.net/v/t1.15752-9/85160701_611664416294983_6497278503635910656_n.jpg?_nc_cat=109&_nc_ohc=qdPTa6xvgr8AX-YpAZo&_nc_ht=scontent.fhan5-1.fna&oh=e53edcd89d731a858a8df82712b23d3b&oe=5ED8BA8A");
+    background-repeat: no-repeat; 
     background-size: cover;
-    background-position: 50%;
-    filter: blur(4px);
-    -webkit-filter: blur(4px);
+    background-position: 50%; 
+    /* filter: blur(4px);
+    -webkit-filter: blur(4px); */
     z-index: 1;
 }
 

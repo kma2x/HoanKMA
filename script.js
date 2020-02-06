@@ -21,8 +21,8 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "hoan dz",
-		name: "Ok - Binz",
+		artist: "Lưu Vũ Quốc Anh",
+		name: "Anh thương em nhất mà",
 		url: "Ok - Binz.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
