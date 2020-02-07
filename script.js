@@ -21,9 +21,9 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "Lưu Vũ Quốc Anh",
-		name: "Anh thương em nhất mà",
-		url: "Anh thuong em nhat ma - La Log TiB.mp3",
+		artist: "hoan dz",
+		name: "Ok - Binz",
+		url: "Ok - Binz.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
 		artist: "HOAN",
