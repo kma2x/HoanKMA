@@ -361,17 +361,17 @@ body
 .wave-container 
 {
     width: 300vw;
-    height: 100%;
+    height: 23%;
     position: fixed;
     overflow: hidden;
     transform: translate3d(0, 0, 0);
-    top: 35%;
+    top: 80%;
     z-index: 4;
+    opacity: 0.75;
 }
   
 .wave 
 {
-    opacity: 1;
     position: fixed;
     top: 60%;
     left: -28%;
@@ -388,7 +388,6 @@ body
 .wave.-two 
 {
     animation: drift 9000ms infinite linear;
-    opacity: 1;
     background: #33476a;
     top: 60%;
     left: -32%;
@@ -397,7 +396,6 @@ body
 .wave.-three 
 {
     animation: drift 4000ms infinite linear;
-    opacity: 1;
     background: #F12645;
     top: 60%;
     left: -36%;
