@@ -31,7 +31,7 @@ body
     background-image: url("https://s3-ap-southeast-1.amazonaws.com/img.spiderum.com/sp-images/3ef6be60445f11e8a0c859f3b0a274c2.jpg");
     background-repeat: no-repeat; 
     background-size: cover;
-    background-position: 100%; 
+    background-position: 70%; 
     filter: blur(4px);
     -webkit-filter: blur(4px); 
     z-index: 1;
@@ -183,7 +183,7 @@ body
 {
     position: relative;
     height: 100%;
-    background-color: #fff;
+    background-color:#afb7c1;
     box-shadow: 0 30px 80px #656565;
     border-radius: 15px;
     z-index: 2;
@@ -328,7 +328,7 @@ body
     width: 26px;
     height: 26px;
     padding: 25px;
-    background-color: #fff;
+    background-color: #afb7c1;
     border-radius: 6px;
     cursor: pointer;
 }

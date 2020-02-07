@@ -21,14 +21,34 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [{
-		artist: "hoan dz",
-		name: "Ok - Binz",
-		url: "Ok - Binz.mp3",
+		artist: "Billie Eilish",
+		name: "Six Feet Under",
+		url: "Music/Six Feet Under - Billie Eilish.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-		artist: "HOAN",
-		name: "/Binz/",
-		url: "Ok - Binz.mp3",
+		artist: "Billie Eilish",
+		name: "Watch",
+		url: "Music/Watch - Billie Eilish.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    }, {
+		artist: "Troye Siva",
+		name: "Strawberries and Cigarettes",
+		url: "Music/Strawberries And Cigarettes - Troye Siva.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Sistar",
+		name: "Touch my body",
+		url: "Music/Touch My Body - Sistar.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Flora Cash",
+		name: "You're somebody else",
+		url: "Music/You_re Somebody Else - Flora Cash.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Sam Kim",
+		name: "Your Song",
+		url: "Music/Your Song -.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	} ];
 	
