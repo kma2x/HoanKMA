@@ -20,17 +20,18 @@ $(function()
 	
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
-	var songs = [{
+	var songs = [
+	{
 		artist: "Billie Eilish",
 		name: "Six Feet Under",
 		url: "Music/Six Feet Under - Billie Eilish.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }, {
+   	}, {
 		artist: "Billie Eilish",
 		name: "Watch",
 		url: "Music/Watch - Billie Eilish.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }, {
+   	}, {
 		artist: "Troye Siva",
 		name: "Strawberries and Cigarettes",
 		url: "Music/Strawberries And Cigarettes - Troye Siva.mp3",
