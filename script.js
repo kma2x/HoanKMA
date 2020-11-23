@@ -50,7 +50,89 @@ $(function()
 		name: "Your Song",
 		url: "Music/Your Song -.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	} ];
+	}, {
+		artist: "Lã ,Log ,TiB",
+		name: "Anh thương em nhất mà ?",
+		url: "Music\Anh thuong em nhat ma - La Log TiB.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Mackenzie Ziegler",
+		name: "Breathe",
+		url: "Music\Breathe - Mackenzie Ziegler.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Den, Fox",
+		name: "Đưa nhau đi trốn",
+		url: "Music\Dua Nhau Di Tron - Den_ Cao.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "ZAYN, Sia",
+		name: "Dusk Till Dawn",
+		url: "Music\Dusk Till Dawn - ZAYN_Sia.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Dick, Tofu, PC",
+		name: "Ghé qua",
+		url: "Music\Ghe Qua - Dick_ Tofu_ PC.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Tofu, PC",
+		name: "Hương hoa hồng",
+		url: "Music\Huong hong hoa - Tofu_ PC.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "911",
+		name: "I Do",
+		url: "Music\I Do - 911.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "TeA, PCGL ",
+		name: "Mắt biếc",
+		url: "Music\Mat Biec - TeA_ PCGL.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Phuong Ly, JustaTee ",
+		name: "Mặt trời của em",
+		url: "Music\Mat Troi Cua Em - Phuong Ly_ JustaTee.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "DatKaa",
+		name: "Người có thương",
+		url: "Music\Nguoi Co Thuong - DatKaa.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "PC",
+		name: "Như anh mơ",
+		url: "Music\Nhu Anh Mo - PC.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Winner",
+		name: "Really Really",
+		url: "Music\Really Really - Winner.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Jake Miller",
+		name: "Rumors",
+		url: "Music\Rumors - Jake Miller.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Kay Trần, Nguyễn Khoa",
+		name: "Tết đong đầy",
+		url: "Music\Tet Dong Day - Kay Tran_ Nguyen Khoa.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "FAY",
+		name: "Tình yêu khủng long",
+		url: "Music\Tinh Yeu Khung Long - FAY.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}, {
+		artist: "Ofenbach,  Brodie Barclay",
+		name: "You Don't Know Me",
+		url: "Music\You Don_t Know Me - Ofenbach_ Brodie Bar.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+	}
+
+];
 	
 	function shuffle(a) {
 		var j, x, i;
