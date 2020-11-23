@@ -169,7 +169,7 @@ $(function()
                 audio.pause();
             }
         },300);
-    }
+    } 
 
     	
 	function showHover(event)
