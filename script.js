@@ -21,7 +21,7 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	var songs = [
-	/*{
+	{
 		artist: "Billie Eilish",
 		name: "Six Feet Under",
 		url: "Music/Six Feet Under - Billie Eilish.mp3",
@@ -56,7 +56,7 @@ $(function()
 		name: "Anh thương em nhất mà ?",
 		url: "Music\Anh thuong em nhat ma - La Log TiB.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-	},*/ {
+	}, {
 		artist: "Mackenzie Ziegler",
 		name: "Breathe",
 		url: "Music\Breathe - Mackenzie Ziegler.mp3",
